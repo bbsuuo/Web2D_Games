@@ -1,0 +1,11 @@
+0 : ff ff ff ff  ff ff ff ff  ff ff ff ff  ff ff ff ff  ff ff ff ff  ff ff ff ff 
+1 : ff ff ff 7f  ff ff ff ff  ff ff ff --  ff ff ff --  ff ff ff ff  ff ff ff ff 
+2 : ff ff ff 7f  ff ff ff ff  ff ff ff ff  ff ff ff --  ff ff ff --  ff ff ff ff 
+3 : ff ff ff 7f  ff ff ff --  ff ff ff ff  ff ff ff ff  ff ff ff --  ff ff ff -- 
+4 : ff ff ff 7f  ff ff ff --  ff ff ff --  ff ff ff ff  ff ff ff ff  ff ff ff -- 
+5 : ff -- -- 80  ff -- -- 80  ff -- -- 80  ff -- -- 80  ff -- -- 80  ff -- -- 80 
+6 : ff ff ff --  ff ff ff --  ff ff ff --  ff ff ff --  ff ff ff --  ff ff ff -- 
+7 : ff ff ff b4  ff ff ff b4  ff ff ff b4  ff ff ff b4  ff ff ff b4  ff ff ff b4 
+8 : ff ff ff c8  ff ff ff c8  ff ff ff c8  ff ff ff c8  ff ff ff c8  ff ff ff c8 
+9 : ff ff ff f1  ff ff ff f1  ff ff ff f1  ff ff ff f1  ff ff ff f1  ff ff ff f1 
+a : ff ff ff 96  ff ff ff 96  ff ff ff 96  ff ff ff 96  ff ff ff 96  ff ff ff 96 
